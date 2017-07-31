@@ -1,5 +1,4 @@
-extern crate hyper;
+extern crate curl;
 
 fn main() {
-    println!("Hello, world!");
 }
