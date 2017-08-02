@@ -6,3 +6,4 @@ authors = ["Trevor Reiff <trevorreiff@gmail.com>"]
 [dependencies]
 
 curl = "0.4.8"
+serde_json = "1.0.2"
